@@ -320,6 +320,9 @@
 // TMC2208 Creality Board Setting - uncomment this to set the driver type if you are using the TMC Creality board
 //#define TMC_CREALITY_BOARD
 
+// Use Ender Bootscreeen instead of TH3D
+//#define ENDER_BOOT
+
 //=================================================================================================
 // README - THE BELOW SETTINGS ARE ONLY FOR USING THE CR-10S DUAL BOARD WITH THE ENDER 3
 // DO NOT UNCOMMENT THE ABOVE #define ENDER3 LINE IF USING THE DUAL BOARD
